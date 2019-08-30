@@ -1,0 +1,17 @@
+.ProgressBar {
+    height: 22px;
+    text-align: center;
+    transform: translateX(0px);
+    transition: width 2s;
+}
+
+.BarBox {
+    max-width: 400px;
+    border: 1px solid #666666;
+    margin: 15px;
+}
+
+.BarSpan {
+    color: white;
+    line-height: 22px;
+}

@@ -1,0 +1,16 @@
+.App {
+  max-width: 400px;
+  margin: auto;
+}
+
+.Container {
+  margin: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.Header {
+  text-align: center;
+  margin: 15px;
+
+}
